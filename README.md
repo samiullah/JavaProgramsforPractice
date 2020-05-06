@@ -19,3 +19,20 @@ Repo for Java programs needed for practice
 
 9 Java Program to Find the Largest Among Three Numbers
 
+10 Java Program to Check Whether a Number is Positive or Negative
+
+11 Java Program to Check Whether a Character is Alphabet or Not
+
+12 Java Program to Calculate the Sum of Natural Numbers
+
+13 Java Program to Find Factorial of a Number
+
+14 Java Program to Generate Multiplication Table
+
+15 Java Program to Display Fibonacci Series
+
+16 Java Program to Display Characters from A to Z using loop
+
+17  Java Program to Count Number of Digits in an Integer
+
+18 Java Program to Reverse a Number
