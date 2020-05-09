@@ -36,3 +36,17 @@ Repo for Java programs needed for practice
 17  Java Program to Count Number of Digits in an Integer
 
 18 Java Program to Reverse a Number
+
+19 Java Program to Calculate the Power of a Number
+
+20 Java Program to Check Whether a Number is Palindrome or Not
+
+21 Java Program to Check Whether a Number is Prime or Not
+
+22 Java Program to Display Prime Numbers Between Two Intervals
+
+23 Java Program to Check Armstrong Number
+
+24 Java Program to Display Factors of a Number
+
+25 Java Program to Make a Simple Calculator Using switch...case
